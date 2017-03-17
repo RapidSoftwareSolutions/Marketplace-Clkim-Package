@@ -6,8 +6,8 @@ Connect to the Clkim Link Shortening API to create shortened URLs customized by 
 * Credentials: apiKey
 
 ## How to get credentials: 
-0. Choose your [Pricing](https://clkim.com/#pricing). 
-1. Navigate to [Settings](http://clk.im/user), get your API key.
+1. Choose your [Pricing](https://clkim.com/#pricing). 
+2. Navigate to [Settings](http://clk.im/user) and get your API key.
 
 ## Clkim.getShortUrl
 Create shortened URL.

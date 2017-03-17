@@ -288,7 +288,7 @@ class Router
                 ] ];
 
             $clientSetup['query'] = json_decode($sendBody, true);
-var_dump($method, $url, $clientSetup);
+
             $vendorResponse = $this->http->request($method, $url, $clientSetup);
             $responseBody = $vendorResponse->getBody()->getContents();
 
